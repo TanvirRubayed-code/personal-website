@@ -77,7 +77,7 @@ section .main-name{
 /*          third section --------  */
 .image-2{
     position: absolute;
-    idth: 476.26px;
+    width: 476.26px;
     height: 583.51px;
     left: 123px;
     top: 544px;
@@ -108,10 +108,4 @@ section .main-name{
     left: 831px;
     top: 969px;
 
-}
-.download-icon{
-    width: 25px;
-    position: absolute;
-    
-    color: white;
 }
